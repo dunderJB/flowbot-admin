@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../flowbot/.idea/flowbot.iml" filepath="$PROJECT_DIR$/../../flowbot/.idea/flowbot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/flowbot_admin.iml" filepath="$PROJECT_DIR$/.idea/flowbot_admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../scripts_testes/.idea/scripts_testes.iml" filepath="$PROJECT_DIR$/../../scripts_testes/.idea/scripts_testes.iml" />
+    </modules>
+  </component>
+</project>
